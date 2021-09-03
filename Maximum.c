@@ -34,7 +34,7 @@ int main()
     printf("Enter number of elements\n");
     scanf("%d",&iSize);
     arr = (int*)malloc(iSize*sizeof(int));
-    printf("Enter the elements\n");
+    printf("Enter the elements\n") ;
     for(i = 0; i<iSize; i++)
     {
         scanf("%d",&arr[i]);
