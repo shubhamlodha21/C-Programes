@@ -1,10 +1,11 @@
+////////////////////////////////////////////////////////
 //Function Name:Pattern
 //Input:5
-//Output:1 * 2 * 3 * 4 * 5 *
-//Description:Display the Pattern
-//Date: 27/07/2021
+//Output:1       *       2       *       3       *       4       *       5       *
+//Description:Print the Pattern
+//Date: 05/09/2021
 //Author: Shubham Lodha
-/////////////////////////////////////////////////////
+//////////////////////////////////////////////////////
 
 #include<stdio.h>
 #include<stdlib.h>
