@@ -5,7 +5,7 @@
 //Description:Accept n Numbers from user and return their maximum number in that
 //Date: 22/05/2021
 //Author: Shubham Lodha
-///////////////////////////////////////////////////////
+/////////////////////////////////////////////////////
 #include<stdio.h>
 #include<stdlib.h>
 
